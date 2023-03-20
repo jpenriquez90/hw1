@@ -1,1 +1,3 @@
-# HW on git repo and stuff
+# HW on git repo and stuff 
+
+hello. 
